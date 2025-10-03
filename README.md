@@ -618,21 +618,21 @@
             </div>
             <div class="portfolio-grid">
                 <div class="portfolio-item" data-category="portrait">
-                    <img src='https://i.postimg.cc/56kZqgxs/Whats-App-Image-2025-10-03-at-22-40-34-bed5e54b-Copy.jpg' border='0' alt='Whats-App-Image-2025-10-03-at-22-40-34-bed5e54b-Copy'/></a>">" alt="Portrait Photography">
+                    <img src="https://drive.google.com/file/d/1ggKbb9ARggAOu2oO3ucPYjWP7KJ4KBpW/view?usp=sharing" alt="Portrait Photography">
                     <div class="portfolio-overlay">
                         <h3>Portrait Session</h3>
                         <p>Elegant portrait photography</p>
                     </div>
                 </div>
                 <div class="portfolio-item" data-category="wedding">
-                    <img src="https://images.unsplash.com/photo-1511285560929-80b456fea0bc?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Wedding Photography">
+                    <img src="https://drive.google.com/file/d/10yR8aktkbcUoFfx7xXjXmZ_yQmkU8NUg/view?usp=sharing" alt="Wedding Photography">
                     <div class="portfolio-overlay">
                         <h3>Wedding Day</h3>
                         <p>Capturing precious moments</p>
                     </div>
                 </div>
                 <div class="portfolio-item" data-category="nature">
-                    <img src="https://images.unsplash.com/photo-1501854140801-50d01698950b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Nature Photography">
+                    <img src="https://drive.google.com/file/d/1QdgPGxXdYD1WdONYiuT3dxxl_K0_Pux1/view?usp=sharing" alt="Nature Photography">
                     <div class="portfolio-overlay">
                         <h3>Nature's Beauty</h3>
                         <p>Landscape and nature shots</p>
