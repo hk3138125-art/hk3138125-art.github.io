@@ -618,7 +618,7 @@
             </div>
             <div class="portfolio-grid">
                 <div class="portfolio-item" data-category="portrait">
-                    <img src="<a href='https://postimg.cc/56kZqgxs' target='_blank'><img src='https://i.postimg.cc/56kZqgxs/Whats-App-Image-2025-10-03-at-22-40-34-bed5e54b-Copy.jpg' border='0' alt='Whats-App-Image-2025-10-03-at-22-40-34-bed5e54b-Copy'/></a>">" alt="Portrait Photography">
+                    <img src='https://i.postimg.cc/56kZqgxs/Whats-App-Image-2025-10-03-at-22-40-34-bed5e54b-Copy.jpg' border='0' alt='Whats-App-Image-2025-10-03-at-22-40-34-bed5e54b-Copy'/></a>">" alt="Portrait Photography">
                     <div class="portfolio-overlay">
                         <h3>Portrait Session</h3>
                         <p>Elegant portrait photography</p>
